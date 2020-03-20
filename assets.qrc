@@ -1,0 +1,58 @@
+<RCC>
+  <qresource prefix="sideBar">
+    <file>sideBarBG.png</file>
+    <file>sideBarButton1_hovered.png</file>
+    <file>sideBarButton1_idle.png</file>
+    <file>sideBarButton1_selected.png</file>
+    <file>sideBarButton2_hovered.png</file>
+    <file>sideBarButton2_idle.png</file>
+    <file>sideBarButton2_selected.png</file>
+    <file>sideBarButton3_hovered.png</file>
+    <file>sideBarButton3_idle.png</file>
+    <file>sideBarButton3_selected.png</file>
+    <file>sideBarButton4_hovered.png</file>
+    <file>sideBarButton4_idle.png</file>
+    <file>sideBarButton4_selected.png</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>atom.ico</file>
+    <file>question.ico</file>
+    <file>flask-6.ico</file>
+  </qresource>
+  <qresource prefix="periodicTable">
+    <file>periodicTableButton_halogens.png</file>
+    <file>periodicTableButton_halogens_hovered.png</file>
+    <file>periodicTableButton_alkaliMetals.png</file>
+    <file>periodicTableButton_alkaliMetals_hovered.png</file>
+    <file>periodicTableButton_selected.png</file>
+    <file>periodicTableButton_actinides.png</file>
+    <file>periodicTableButton_alkaliEarthMetals.png</file>
+    <file>periodicTableButton_alkaliEarthMetals_hovered.png</file>
+    <file>periodicTableButton_lanthanides.png</file>
+    <file>periodicTableButton_lanthanides_hovered.png</file>
+    <file>periodicTableButton_metalloids.png</file>
+    <file>periodicTableButton_metalloids_hovered.png</file>
+    <file>periodicTableButton_nobleGases.png</file>
+    <file>periodicTableButton_nobleGases_hovered.png</file>
+    <file>periodicTableButton_otherNonMetals.png</file>
+    <file>periodicTableButton_otherNonMetals_hovered.png</file>
+    <file>periodicTableButton_postTransitionMetals.png</file>
+    <file>periodicTableButton_postTransitionMetals_hovered.png</file>
+    <file>periodicTableButton_transitionMetals.png</file>
+    <file>periodicTableButton_transitionMetals_hovered.png</file>
+    <file>periodicTableButton_actinides_hovered.png</file>
+  </qresource>
+  <qresource prefix="backGround">
+    <file>dna.svg</file>
+    <file>microscope.svg</file>
+    <file>beaker-2.svg</file>
+    <file>loupe.svg</file>
+    <file>lab-coat.svg</file>
+    <file>safety-glasses.svg</file>
+    <file>test-tube-4.svg</file>
+    <file>atom-1.svg</file>
+    <file>flask-6.svg</file>
+    <file>test-tube-5.svg</file>
+    <file>atom.svg</file>
+  </qresource>
+</RCC>
